@@ -1,2 +1,2 @@
-# KEPP: Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos
-Project page for KEPP - CVPR24
+SSDG-Adapter: Towards Generalizing to Unseen Domains with Few Labels
+Official Project Page for "Towards Generalizing to Unseen Domains with Few Labels" accepted in CVPR 2024
